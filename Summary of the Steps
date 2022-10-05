@@ -1,0 +1,7 @@
+Stop the instance that you can't log in to. 
+Detach the boot volume.
+Attach the boot volume to a running Linux instance.
+Run the iSCSI commands to attach the device and make it visible to the local operating system.
+Fix the authorized_keys file.
+Unmount the device and detach it by running the iSCSI commands.
+Attach the boot volume to the original instance and start it.
